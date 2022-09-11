@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "4db7e511d332cbf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "23c486d15f7a8dd4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Команды git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ed05499b124dfff",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d3c5930e3881824",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "221f7302fba8d598",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "20cd491eeef5f340",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372
+  },
+  "right": {
+    "id": "370d066f04e4d01e",
+    "type": "split",
+    "children": [
+      {
+        "id": "390a2dfe0a13fa4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "140a6410f6209fee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Команды git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "23c486d15f7a8dd4",
+  "lastOpenFiles": [
+    "6) vue/Старт.md",
+    "Команды git.md",
+    "Snippets.md",
+    "0) Подсказки/Мои сниппеты.md",
+    "0) Подсказки/Работа с галпом.md",
+    "0) Подсказки/Руководство к верстке.md",
+    "0) Подсказки/Шпаргалка.md",
+    "0) Подсказки/Часто используемые слова.md",
+    "2) Java Script/Уроки по сайту code.mu/Часть 30 ООП классы.md",
+    "2) Java Script/Уроки по сайту code.mu/Часть 29 Геттеры и сеттеры обьектов.md"
+  ]
+}
